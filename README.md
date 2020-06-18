@@ -3,5 +3,7 @@
 O trabalho é proposta de um grafico em Python 
 
 Aluno 1: Weverton
+
 Aluno 2: Pedro
+
 Aluno 3: Nataly
