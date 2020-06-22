@@ -6,4 +6,4 @@ Aluno 1: Weverton
 
 Aluno 2: Pedro
 
-Aluno 3: Nataly
+Aluno 3: Nataly De Lima Marinho
