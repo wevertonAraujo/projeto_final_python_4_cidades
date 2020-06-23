@@ -6,4 +6,4 @@ Aluno 1: Weverton
 
 Aluno 2: Pedro
 
-Aluno 3: Nataly De Lima Marinho
+Aluno 3: Nataly De Lima Marinho  /GitHub: https://github.com/nataly17
