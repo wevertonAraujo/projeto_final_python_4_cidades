@@ -18,7 +18,7 @@ Curso: “Introdução à Programação com Python”
 
 Aluno 1: Weverton da Silva Araujo | GitHub: >>> https://github.com/wevertonAraujo <<<
 
-Aluno 2: Pedro
+Aluno 2: Pedro Thiago Pinheiro de Freitas | GitHub: >>> https://github.com/PedroTPFreitas
 
 Aluno 3: Nataly De Lima Marinho  | GitHub:  >>> https://github.com/nataly17 <<<
 
