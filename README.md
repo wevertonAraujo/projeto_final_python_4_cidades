@@ -10,16 +10,16 @@ Universidade Federal do Rio Grande do Norte (UFRN) - Instituto Metropole Digital
 
 Integra School >>> Site: https://www.imd.ufrn.br/portal/noticias/6002/integra-school-abre-160-vagas-para-cursos-de-programação-python-e-sistemas-centos <<<
 
-Professor: Carlos Artur Guimarães | GitHub >>> https://github.com/arturgmrs/integraschoolpython <<<
+Professor: Carlos Artur Guimarães         | GitHub >>> https://github.com/arturgmrs/integraschoolpython <<<
 
 Curso: “Introdução à Programação com Python”
 
 # Membros
 
-Aluno 1: Weverton da Silva Araujo | GitHub: >>> https://github.com/wevertonAraujo <<<
+Aluno 1: Weverton da Silva Araujo         | GitHub: >>> https://github.com/wevertonAraujo <<<
 
-Aluno 2: Pedro Thiago Pinheiro de Freitas | GitHub: >>> https://github.com/PedroTPFreitas
+Aluno 2: Pedro Thiago Pinheiro de Freitas | GitHub: >>> https://github.com/PedroTPFreitas <<<
 
-Aluno 3: Nataly De Lima Marinho  | GitHub:  >>> https://github.com/nataly17 <<<
+Aluno 3: Nataly De Lima Marinho           | GitHub: >>> https://github.com/nataly17 <<<
 
 Aluno 4: 
